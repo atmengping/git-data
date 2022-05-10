@@ -14,4 +14,4 @@ hello git! hello ping!
 hello git! hello ping!
 hello git! hello ping!
 hello git! hello ping!
-hello git! hello ping!
+hello git! hello ping! hot-fix
